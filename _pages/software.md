@@ -12,7 +12,7 @@ java program that rapidly calculated the view factor of an arbitrary CAD file. G
 
 
 <figure>
-<img src="/images/software/TEG.jpg" alt="View factors and TEG"/>
+<img src="{{site.url}}/images/software/TEG.jpg">
 <figcaption>
 View factor parameters in a single-junction thermoelectric generator (TEG)
 </figcaption>
