@@ -9,6 +9,3 @@ As a believer in collaborative science, most of my repositories are open-source.
 
 I am a developer of the [GPU-Accelerated View Factor Calculator](https://github.com/AasherH/GPU-Accelerated-View-Factor-Calculator) 
 java program that rapidly calculated the view factor of an arbitrary CAD file. GPU-accelerated programming is utilized to improve run-times.
-
-
-![test](/images/software/TEG.jpg)
