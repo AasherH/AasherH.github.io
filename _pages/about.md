@@ -6,11 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-gallery:
-  - url: fun/hobby.jpg
-    image_path: fun/hobby.jpg
-    alt: "pictures of me and some of my hobbies"
-    title: "Pictures of me and some of my hobbies"
 ---
 Welcome! I am an undergraduate researcher at [The University of Pittsburgh's](https://www.pitt.edu/) [Swanson School of Engineering](https://www.engineering.pitt.edu/).
 I am affiliated with the [Department of Mechanical Engineering and Materials Science](https://www.engineering.pitt.edu/mems), where I have
@@ -23,4 +18,3 @@ undergraduate studies. My prior research has been published in *Energy* and pres
 as a NASA Pathways Employee at the [Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home/index.html). Here, I developed an 
 enthusiasm for control theory and aerial robotics, and I hope to pursue a PhD to study these topics next year. 
 
-{% include gallery %}
