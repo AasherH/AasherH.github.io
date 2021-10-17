@@ -11,7 +11,7 @@ Welcome! I am an undergraduate researcher at [The University of Pittsburgh's](ht
 I am affiliated with the [Department of Mechanical Engineering and Materials Science](https://www.engineering.pitt.edu/mems), where I have
 had the pleasure of collaborating with [Paul Leu](http://lamp.pitt.edu/), [Matthew Barry](https://www.engineering.pitt.edu/people/faculty/matthew-barry/), 
 and [Albert To](https://sites.pitt.edu/~albertto/). My interdisciplinary interests led me to study topics ranging from radiative 
-heat transfer to topology optimization, where I published my work in *Energy* and presented at conferences like *VCT 2020* and *HEFAT 2021*.
+heat transfer to topology optimization, allowing me to develop a skillset in algorithm design, high-performance computing, and optimization.
 
 I will earn my B.S. in mechanical engineering with (expected) minors in computer science and mathematics from Pitt in the spring of 2022. 
 During five years at Pitt, I was fortunate enough to complete three semesters of work at NASA's [Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home/index.html) as a Pathways Employee; here, I developed a 
