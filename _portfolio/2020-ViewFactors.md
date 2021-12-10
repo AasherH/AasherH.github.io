@@ -12,3 +12,7 @@ Results indicate that for a constant packing density,  asymptotically decreases 
 For an increasing packing density and constant distance across the TEG’s junction,  decreases.
 In a multi-junction device,  was found to asymptotically increase with junction number, implying that for large multi-junction TEG designs, a simpler model may serve to accurately predict the view factor.
 The code developed herein is open-source and can be found at [GPU-Accelerated View Factor Calculator](https://github.com/AasherH/GPU-Accelerated-View-Factor-Calculator).
+
+<iframe src="/files/ViewFactors_ARC2021_AsherHancock.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF of my poster slides from the <i>Advancing Research through Computing 2021</i> conference [here](/files/ViewFactors_ARC2021_AsherHancock.pdf).
