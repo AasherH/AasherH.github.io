@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Asher Hancock"
   avatar           : "profile_picture.jpg"
-  bio              : "Aspiring aerospace roboticist and control theorist"
+  bio              : "Aspiring control theorist and applied mathematician"
   location         : "Pittsburgh, PA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -184,6 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  academic:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -245,6 +248,18 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _academic
+  - scope:
+      path: ""
+      type: academic
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      mathjax: true
 
 # Sass/SCSS
 sass:

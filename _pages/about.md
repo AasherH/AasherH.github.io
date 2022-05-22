@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am an undergraduate researcher at [The University of Pittsburgh's](https://www.pitt.edu/) [Swanson School of Engineering](https://www.engineering.pitt.edu/).
-I am affiliated with the [Department of Mechanical Engineering and Materials Science](https://www.engineering.pitt.edu/mems), where I have
-had the pleasure of collaborating with [Paul Leu](http://lamp.pitt.edu/), [Matthew Barry](https://www.engineering.pitt.edu/people/faculty/matthew-barry/), 
-and [Albert To](https://sites.pitt.edu/~albertto/). My interdisciplinary interests led me to study topics ranging from radiative 
-heat transfer to topology optimization, allowing me to develop a skillset in algorithm design, high-performance computing, and optimization.
+Welcome! I am a graduate student interested in combining ideas from control theory and machine learning to enable safe and 
+verifiable autonomous aerial systems. I am an incoming MPhil candidate at the [University of Cambridge](https://www.cam.ac.uk/) to study kernel operators and 
+nonlinear control theory with the [Controls](http://www-control.eng.cam.ac.uk/) and [Machine Learning Groups](http://mlg.eng.cam.ac.uk/) – my studies at Cambridge are graciously supported by [The Churchill Scholarship](https://churchillscholarship.org/). 
+Upon completion of my MPhil thesis, I intend to enroll at [Princeton University](https://mae.princeton.edu/) in the fall of 2023 under the support of the [NSF GRFP](https://www.nsfgrfp.org/). 
 
-I will earn my B.S. in mechanical engineering with (expected) minors in computer science and mathematics from Pitt in the spring of 2022. 
-During five years at Pitt, I was fortunate enough to complete three semesters of work at NASA's [Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home/index.html) as a Pathways Employee; here, I developed a 
-fascination with autonomous systems and robotics, and I hope pursue a PhD to study these topics next year. 
+I graduated from The [University of Pittsburgh](https://www.engineering.pitt.edu/mems) with a Bachelor’s degree in Mechanical Engineering and Materials Science. 
+During my undergraduate education, I was fortunate enough to complete three semesters of work at [NASA’s Marshall Space Flight Center](https://www.nasa.gov/centers/marshall/home/index.html) as a 
+Pathways Employee. 
 
+Outside of the lab, I enjoy running, hiking, reading, and checking out new coffee shops. 
