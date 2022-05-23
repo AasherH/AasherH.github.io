@@ -1,5 +1,5 @@
 ---
-title: "Resources related to learning for dynamics and control"
+title: "Resources Related to Learning for Dynamics and Control"
 excerpt: "A collection of websites and books that I have found useful in graduate school"
 collection: academic
 ---
