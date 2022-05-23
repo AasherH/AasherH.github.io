@@ -2,6 +2,7 @@
 layout: archive
 title: "Introduction to Real Analysis - A Review"
 excerpt: "A compilation of definitions and basic theorems in an introductory real analysis course"
+date: 2022-05-23
 collection: academic
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Resources Related to Learning for Dynamics and Control"
 excerpt: "A collection of websites and books that I have found useful in graduate school"
+date: 2022-05-22
 collection: academic
 ---
 
