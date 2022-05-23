@@ -17,3 +17,5 @@ During my undergraduate education, I was fortunate enough to complete three seme
 Pathways Employee. 
 
 Outside of the lab, I enjoy running, hiking, reading, and checking out new coffee shops. 
+
+You can download a PDF copy of my CV [here](/files/CV_AsherHancock.pdf).
