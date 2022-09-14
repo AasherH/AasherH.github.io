@@ -1,10 +1,10 @@
 /* Design Credits: Jon Barron and Abhishek Kar and Saurabh Gupta*/
   a {
-  color: #1772d0;
+  color: #9f7fff;
   text-decoration:none;
   }
   a:focus, a:hover {
-  color: #f09228;
+  color: #ff52a3;
   text-decoration:none;
   }
   body,td,th {
