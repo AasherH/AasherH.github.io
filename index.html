@@ -3,7 +3,7 @@
 
 <head>
   <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
-  <link rel="icon" type="image/png" href="images/ironman.ico">
+  <link rel="icon" type="image/png" href="images/astronaut.ico">
   <!-- <link rel="shortcut icon" href="https://www.cs.cmu.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon">
   -->
   <script type="text/javascript" src="js/gtag.js"></script>
@@ -24,7 +24,6 @@
 <section class="home" id="home">
 <table align="center" border="0" cellspacing="0" cellpadding="20">
   <p width="100%" align="center">
-    <!-- <font size="7">Youngjae Min</font><br> -->
     <pageheading>Asher Hancock</pageheading><br>
     <b>email</b>:&nbsp
     <font id="email" style="display:inline;">
@@ -36,13 +35,14 @@
     <td width="32%" valign="middle" align="center"><a><img src="images/AsherHancock.jpg" width="100%" style="border-radius:200px"></a>
     <!-- <p align=center>
     <a href="data/CV_Youngjae.pdf" target="_blank">CV</a> |
-    <a href="https://scholar.google.cl/citations?hl=en&user=oxvFkvEAAAAJ" target="_blank">Google Scholar</a> |
-    <a href="https://github.com/youngjae-min" target="_blank">Github</a>
-    </p> -->
+	-->
+	<p> <a href="https://scholar.google.com/citations?user=td0mgnUAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
+    <a href="https://github.com/AasherH" target="_blank">Github</a>
+    </p>
     </td>
     <td width="68%" valign="middle" align="justify">
     <p>I am a graduate student broadly interested in combining ideas from control theory, machine learning, and applied mathematics to enable safer and more agile autonomous aerial vehicles. <br>
-	Currently, I am a MPhil candidate in the <a href="http://www-control.eng.cam.ac.uk/" target="_blank">University of Cambridge's Controls Group</a> under the supervision of <a href="https://sites.google.com/site/rsepulchre/home?authuser=0" target="_blank">Rodolphe Sepulchre</a>, where I am graciously supported by the <a href="https://www.churchillscholarship.org/" target="_blank">Churchill Scholarship</a>. <br>
+	Currently, I am a MPhil candidate in the <a href="http://www-control.eng.cam.ac.uk/" target="_blank">University of Cambridge's Controls Group</a> under the supervision of <a href="https://sites.google.com/site/rsepulchre/home?authuser=0" target="_blank">Rodolphe Sepulchre</a>. My studies are graciously supported by the <a href="https://www.churchillscholarship.org/" target="_blank">Churchill Scholarship</a>. <br>
 	After a year across the pond, I will join <a href="https://irom-lab.princeton.edu/" target="_blank">Princeton's Intelligent Robot Motion Lab</a> led by <a href="https://mae.princeton.edu/people/faculty/majumdar" target="_blank">Anirudha Majumdar</a> as a PhD student in the Department of Mechanical and Aerospace Engineering. <br>
     </p>
 <!--
@@ -99,16 +99,21 @@
       </p>
 
       <div class="paper" id="energy">
-      <a href="https://arxiv.org/" target="_blank">arXiv</a> |
+      <!--<a href="https://arxiv.org/" target="_blank">arXiv</a> | -->
       <a href="javascript:toggleblock('energy_abs')">abstract</a>  |
       <a shape="rect" href="javascript:togglebib('energy')" class="togglebib">bibtex</a>
 
-      <p align="justify"> <i id="energy_abs">A robust computational framework was developed and implemented to numerically resolve the radiation view factor, Fij, within three-dimensional geometries, and, in particular, thermoelectric generators (TEGs). The proposed numerical methodology utilizes a graphics processing unit-accelerated ray-tracing algorithm to capitalize on the parallel nature of the view factor formulation. The shadow effect, resulting from interference with the TEGs conductive interconnectors and thermoelectric legs, was accounted for via the Möller-Trumbore ray-triangle intersection algorithm with back-face culling enabled. The effect of interconnector thickness, thermoelectric leg height-to-width ratios, TEG packing density, and the number of junctions on Fij is explored for various TEG configurations. Validation is performed against analytical values for planar and non-planar geometries, in addition to a point-in-polygon intersection algorithm for single-junction TEGs. Results indicate that for a constant packing density, Fij asymptotically decreases with increasing distance across the TEG’s hot- and cold-sides. For an increasing packing density and constant distance across the TEG’s junction, Fij decreases. In a multi-junction device, Fij was found to asymptotically increase with junction number, implying that for large multi-junction TEG designs, a simpler model may serve to accurately predict the view factor. The code developed herein is open-source and can be found at https://github.com/AasherH/GPU-Accelerated-View-Factor-Calculator.
+      <p align="justify"> <i id="energy_abs">A robust computational framework was developed and implemented to numerically resolve the radiation view factor, Fij, within three-dimensional geometries, and, in particular, thermoelectric generators (TEGs). The proposed numerical methodology utilizes a graphics processing unit-accelerated ray-tracing algorithm to capitalize on the parallel nature of the view factor formulation. The shadow effect, resulting from interference with the TEGs conductive interconnectors and thermoelectric legs, was accounted for via the Moller-Trumbore ray-triangle intersection algorithm with back-face culling enabled. The effect of interconnector thickness, thermoelectric leg height-to-width ratios, TEG packing density, and the number of junctions on Fij is explored for various TEG configurations. Validation is performed against analytical values for planar and non-planar geometries, in addition to a point-in-polygon intersection algorithm for single-junction TEGs. Results indicate that for a constant packing density, Fij asymptotically decreases with increasing distance across the TEG\’s hot- and cold-sides. For an increasing packing density and constant distance across the TEG\'s junction, Fij decreases. In a multi-junction device, Fij was found to asymptotically increase with junction number, implying that for large multi-junction TEG designs, a simpler model may serve to accurately predict the view factor. The code developed herein is open-source and can be found at https://github.com/AasherH/GPU-Accelerated-View-Factor-Calculator.
 
 <pre xml:space="preserve">
 @article{hancock2021gpu,
-  title={A GPU-Accelerated ray-tracing method for determining radiation view factors in multi-junction thermoelectric generators},
-  author={Hancock, Asher J and Fulton, Laura B and Ying, Justin and Clifford, Corey E and Sammak, Shervin and Barry, Matthew M},
+  title={A GPU-Accelerated ray-tracing 
+  method for determining radiation view 
+  factors in multi-junction thermoelectric 
+  generators},
+  author={Hancock, Asher J and Fulton, Laura B 
+  and Ying, Justin and Clifford, Corey E and 
+  Sammak, Shervin and Barry, Matthew M},
   journal={Energy},
   volume={228},
   pages={120438},
@@ -133,7 +138,7 @@
       <p>
       <heading id="NMSL_WIPI">Transient Topology Optimization for Heat Conduction</heading><br>
       Advised by Florian Dugast and <a href="https://www.engineering.pitt.edu/people/faculty/albert-to/" target="_blank">Albert To</a><br>
-      Replicated results from <a href="https://www.tandfonline.com/doi/pdf/10.1080/10407790.2013.873309?casa_token=SLp9CTCJMagAAAAA:no4PMBttO5-Q65Y0hm9w-oUUi5YPjlYV4Fr8WciGQxMlsri-5tn_77qpvkF5em9E7K3IHghIK2OQbA" target="_blank">Zhuang et al.</a><br> to study topology optimization<br>
+      Replicated results from <a href="https://www.tandfonline.com/doi/pdf/10.1080/10407790.2013.873309?casa_token=SLp9CTCJMagAAAAA:no4PMBttO5-Q65Y0hm9w-oUUi5YPjlYV4Fr8WciGQxMlsri-5tn_77qpvkF5em9E7K3IHghIK2OQbA" target="_blank">Zhuang et al.</a> to study topology optimization<br>
       </p>
     </td>
   </tr>
