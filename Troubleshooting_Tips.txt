@@ -1,3 +1,0 @@
-_data/navigation for editing the header
-
-See markdown.md for more tips
