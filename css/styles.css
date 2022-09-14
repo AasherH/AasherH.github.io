@@ -71,10 +71,10 @@
     font-weight: 700;
   }
   #navbar li a:hover {
-      color: #f09228;
+      color: #ff52a3;
   }
   .active {
-      border-bottom: 2px solid #f09228;
+      border-bottom: 2px solid #ff52a3;
   }
   .ImageBorder
   {
