@@ -270,7 +270,7 @@ b, strong { font-weight: 600; }
     radial-gradient(1px 1px at 210px 210px, rgba(121, 77, 255, 0.45), transparent),
     radial-gradient(1.5px 1.5px at 260px 40px, rgba(255, 138, 61, 0.45), transparent);
   background-size: 300px 260px;
-  animation: twinkle 7s ease-in-out infinite alternate;
+  animation: twinkle 4s ease-in-out infinite alternate;
 }
 .system { position: absolute; aspect-ratio: 1 / 1; }
 .sys-a { width: 760px; top: -300px; left: -300px; }
@@ -279,7 +279,7 @@ b, strong { font-weight: 600; }
 .orbit {
   position: absolute;
   border-radius: 50%;
-  border: 1px solid rgba(121, 77, 255, 0.16);
+  border: 1px solid rgba(121, 77, 255, 0.28);
   animation: orbit-spin linear infinite;
 }
 .orbit::after {
@@ -292,11 +292,11 @@ b, strong { font-weight: 600; }
   margin-left: -5px;
   border-radius: 50%;
 }
-.o1 { inset: 32%; animation-duration: 45s; }
+.o1 { inset: 32%; animation-duration: 28s; }
 .o1::after { background: var(--accent); box-shadow: 0 0 12px rgba(121, 77, 255, 0.6); }
-.o2 { inset: 16%; border-color: rgba(255, 82, 163, 0.15); animation-duration: 80s; animation-direction: reverse; }
+.o2 { inset: 16%; border-color: rgba(255, 82, 163, 0.26); animation-duration: 45s; animation-direction: reverse; }
 .o2::after { width: 8px; height: 8px; margin-left: -4px; top: -4px; background: var(--accent-2); box-shadow: 0 0 12px rgba(255, 82, 163, 0.6); }
-.o3 { inset: 0; border: 1px dashed rgba(255, 138, 61, 0.22); animation-duration: 130s; }
+.o3 { inset: 0; border: 1px dashed rgba(255, 138, 61, 0.36); animation-duration: 70s; }
 .o3::after { width: 12px; height: 12px; margin-left: -6px; top: -6px; background: var(--accent-3); box-shadow: 0 0 14px rgba(255, 138, 61, 0.6); }
 .sun {
   position: absolute;
@@ -305,7 +305,7 @@ b, strong { font-weight: 600; }
   background: radial-gradient(circle, rgba(255, 138, 61, 0.35), rgba(255, 82, 163, 0.12) 60%, transparent 70%);
 }
 @keyframes orbit-spin { to { transform: rotate(360deg); } }
-@keyframes twinkle { from { opacity: 0.35; } to { opacity: 0.8; } }
+@keyframes twinkle { from { opacity: 0.3; } to { opacity: 1; } }
 @media (prefers-reduced-motion: reduce) {
   .orbit, .stars { animation: none; }
 }
