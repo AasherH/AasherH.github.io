@@ -69,6 +69,7 @@ b, strong { font-weight: 600; }
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
+  object-position: center 8%;
   border-radius: 50%;
   box-shadow: 0 10px 26px rgba(40, 20, 90, 0.12);
 }
